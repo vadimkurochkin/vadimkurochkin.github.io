@@ -21,7 +21,7 @@
 title: Все проще, чем ты думаешь
 email: vadkur@vk.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Если хотите в чем-то разбираться, но не разбираетесь,\nначните разбираться и разберетесь
+  Если хотите в чем-то разбираться, но не разбираетесь,<br/>начните разбираться и разберетесь
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vadk.ru" # the base hostname & protocol for your site, e.g. http://example.com
 domain: vadk.ru
