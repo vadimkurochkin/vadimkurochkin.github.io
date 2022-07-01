@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll Copy!"
 date:   2022-07-01 18:52:40 +0300
 categories: jekyll update
